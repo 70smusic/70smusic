@@ -1,5 +1,12 @@
-## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=vexcub&color=orange)
+
+<p align="center"> <a href="https://vexcub.atabook.org"> atabook  <a href="https://rentry.co/psak/"> rentry<a> <a href="https://pronouns.cc/@vexcub">pronouns<a>
+
+<p align="center">
+  <img src="https://github.com/vexcub/vexcub/blob/main/ZSAK.jpg" />
+</p>
+<!--
 <!--
 **70smusic/70smusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
