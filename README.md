@@ -1,9 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vexcub&color=blue)
 
-<div align="center"> 
-  <a href="https://70smusic.atabook.org/"> atabook  <a href="https://rentry.co/psak/"> rentry<a> <a href="https://pronouns.cc/@70smusic">pronouns<a>
-</div>
+<div align="center"> <a href="https://70smusic.atabook.org/"> atabook  <a href="https://rentry.co/psak/"> rentry<a> <a href="https://pronouns.cc/@70smusic">pronouns<a> </div>
 
 <p align="center">
   <img src="https://github.com/70smusic/70smusic/blob/main/tumblr_8882e03e6796db58e2bbaf166966c84b_24767799_540.webp" />
