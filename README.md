@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=vexcub&color=blue)
+<div align="center> ![](https://komarev.com/ghpvc/?username=vexcub&color=blue) </div>
 
 <div align="center"> <a href="https://70smusic.atabook.org/"> atabook  <a href="https://rentry.co/psak/"> rentry<a> <a href="https://pronouns.cc/@70smusic">pronouns<a> </div>
 
