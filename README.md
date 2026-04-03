@@ -1,23 +1,20 @@
 
-![](https://komarev.com/ghpvc/?username=vexcub&color=blue)
+<div align="center"> 
+  <img width="120" src="https://komarev.com/ghpvc/?username=vexcub&color=632017"> 
+</div>
 
-<div align="center"> <a href="https://70smusic.atabook.org/"> atabook  <a href="https://rentry.co/psak/"> rentry<a> <a href="https://pronouns.cc/@70smusic">pronouns<a> </div>
+<p align="center"> $\color{#632017}{\textsf{has he thoughts within his head?}}$ </p>
+
+$\small{\textsf{ }}$
+
+<p align="center">  read <a href="https://rentry.co/psak/"> rentry </a> and <a href="https://70smusic.straw.page/"> straw </a> fully before you interact  </p>
+
 
 <p align="center">
   <img src="https://github.com/70smusic/70smusic/blob/main/tumblr_8882e03e6796db58e2bbaf166966c84b_24767799_540.webp" />
 </p>
-<!--
-<!--
-**70smusic/70smusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> sign <a href="https://70smusic.atabook.org/"> atabook </a> and read <a href="https://pronouns.cc/@70smusic">pronouns</a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> $\color{#632017}{\textsf{we'll just pass him there
+// why should we even care?}}$ </p>
