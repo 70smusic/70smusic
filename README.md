@@ -8,6 +8,8 @@
 $\small{\textsf{ }}$
 
 <p align="center">  read <a href="https://rentry.co/psak/"> rentry </a> and <a href="https://70smusic.straw.page/"> straw </a> fully before you interact  </p>
+<p align="center">  will iwec if you are -15 </p>
+
 
 
 <p align="center">
