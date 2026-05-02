@@ -24,5 +24,5 @@ $\small{\textsf{ }}$
 <details align="center">
     <summary>my friends</summary>
   <img src="https://github.com/70smusic/70smusic/blob/main/FRIENDS.png" width="200" height="200" />
-    </p>
+    <p> <a href="https://70sfriends.straw.page/"> more pics </a> </p>
 </details>
