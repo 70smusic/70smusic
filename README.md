@@ -1,9 +1,9 @@
 
 <div align="center"> 
-  <img width="120" src="https://komarev.com/ghpvc/?username=vexcub&color=632017"> 
+  <img width="120" src="https://komarev.com/ghpvc/?username=vexcub&color=69abfb"> 
 </div>
 
-<p align="center"> $\color{#632017}{\textsf{has he thoughts within his head?}}$ </p>
+<p align="center"> $\color{#e5edf6}{\textsf{has he thoughts within his head?}}$ </p>
 
 $\small{\textsf{ }}$
 
@@ -13,12 +13,12 @@ $\small{\textsf{ }}$
 
 
 <p align="center">
-  <img src="https://github.com/70smusic/70smusic/blob/main/tumblr_8882e03e6796db58e2bbaf166966c84b_24767799_540.webp" />
+  <img src="https://github.com/70smusic/70smusic/blob/main/6d59f6e11a1ed0cfaa70bf86584f0df6.gif" />
 </p>
 
 <p align="center"> sign <a href="https://70smusic.atabook.org/"> atabook </a> and read <a href="https://pronouns.cc/@70smusic">pronouns</a> </p>
 
-<p align="center"> $\color{#632017}{\textsf{we'll just pass him there
+<p align="center"> $\color{#e5edf6}{\textsf{we'll just pass him there
 // why should we even care?}}$ </p>
 
 <details align="center">
