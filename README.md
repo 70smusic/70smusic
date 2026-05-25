@@ -21,6 +21,11 @@ $\small{\textsf{ }}$
 <p align="center"> $\color{#e5edf6}{\textsf{we'll just pass him there
 // why should we even care?}}$ </p>
 
+<div align="center">
+  <p> pfo i love u so much</p>
+<img src="https://github.com/70smusic/70smusic/blob/main/Screenshot_2026-05-24_at_8.52.56_PM.png" width="200" height="200" />
+</div>
+
 <details align="center">
     <summary>my friends & lovemail</summary>
   <img src="https://github.com/70smusic/70smusic/blob/main/FRIENDS.png" width="200" height="200" />
