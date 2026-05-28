@@ -30,5 +30,5 @@ $\small{\textsf{ }}$
     <summary>my friends & lovemail</summary>
   <img src="https://github.com/70smusic/70smusic/blob/main/FRIENDS.png" width="200" height="200" />
     <p> <a href="https://70sfriends.straw.page/"> more pics </a> </p>
-    <p> <a href="https://rentry.co/rottcage"> lovemail </a> </p>
+    <p> <a href="https://70slovemail.straw.page/"> lovemail </a> </p>
 </details>
