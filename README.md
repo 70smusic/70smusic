@@ -1,6 +1,6 @@
 
 <div align="center"> 
-  <img width="120" src="https://komarev.com/ghpvc/?username=vexcub&color=500a1a"> 
+  <img width="120" src="https://komarev.com/ghpvc/?username=70smusic&color=500a1a"> 
 </div>
 
 <p align="center"> $\color{#a01f3b}{\textsf{has he thoughts within his head?}}$ </p>
