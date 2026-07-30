@@ -4,7 +4,12 @@
  
   <img width="120" src="https://komarev.com/ghpvc/?username=70smusic&color=6d4d5a&base=5000"> 
 
-
+<details>
+    <summary>awards</summary>
+<div align="center">
+  <p> <p> thank u ! <a href="https://github.com/pt-of-awesomeness"> pt-of-awesomeness</a>, <a href="https://github.com/pt-hall-of-media"> hall of media</a>, <a href="https://github.com/pt-walk-of-fame"> walk of fame </a> </p>
+</p>
+</details>
 
 <p>
   <img width="200" src="https://file.garden/aU4hh4V5_n1pLO3P/Untitled48_20260730163954-gradient-map-custom.png" />
@@ -20,10 +25,9 @@
     <summary>my friends & lovemail</summary>
 <div align="center">
   <p> pfo i love u so much</p>
-<img src="https://github.com/70smusic/70smusic/blob/main/Screenshot_2026-05-24_at_8.52.56_PM.png" width="200" height="200" />
-</div>
-    <p> <a href="https://70sfriends.straw.page/"> more pics </a> </p>
+    <p> <a href="https://70sfriends.straw.page/">  pics </a> </p>
     <p> <a href="https://70slovemail.straw.page/"> lovemail </a> </p>
+  </div>
 </details>
 
 <img src="https://file.garden/aU4hh4V5_n1pLO3P/header-gradient-map-custom.png">
