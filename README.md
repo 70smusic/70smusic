@@ -15,7 +15,7 @@
   <img width="200" src="https://file.garden/aU4hh4V5_n1pLO3P/Untitled48_20260730163954-gradient-map-custom.png" />
 </p>
 
-[<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/rentry1.png"/>](https://rentry.co/-tonystark) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/prncc.png"/>](https://pronouns.cc/@70smusic) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/atabook.png"/>](https://70smusic.atabook.org/) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/strawpage.png"/>](https://70smusic.straw.page/)
+[<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/rentry1.png"/>](https://rentry.co/robodon) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/prncc.png"/>](https://pronouns.cc/@70smusic) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/atabook.png"/>](https://70smusic.atabook.org/) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/strawpage.png"/>](https://70smusic.straw.page/)
 
 
 
