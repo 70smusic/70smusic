@@ -7,7 +7,7 @@
 <details>
     <summary>awards</summary>
 <div align="center">
-  <p> <p> thank u ! <a href="https://github.com/pt-of-awesomeness"> pt-of-awesomeness</a>, <a href="https://github.com/pt-hall-of-media"> hall of media</a>, <a href="https://github.com/pt-walk-of-fame"> walk of fame </a>, <a href="ponytowncosplayers"> pt cosplayers </a></p>
+  <p> <p> thank u ! <a href="https://github.com/pt-of-awesomeness"> pt-of-awesomeness</a>, <a href="https://github.com/pt-hall-of-media"> hall of media</a>, <a href="https://github.com/pt-walk-of-fame"> walk of fame </a>, <a href="https://github.com/ponytowncosplayers"> pt cosplayers </a></p>
 </p>
 </details>
 
