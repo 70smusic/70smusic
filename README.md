@@ -11,6 +11,10 @@
 </p>
 </details>
 
+<details>
+  <summary> info </summary>
+    <p> I cannot access fluffle.cc links on my school wifi, and frankly will not be switching back and forth between a hot spot for it, if you use fluffle, have an alternative or i just won't know your info. </p>
+</details>
 <p>
   <img width="200" src="https://i.postimg.cc/15Z46q4F/Untitled48-20260828235827-gradient-map-custom.png" />
 </p>
