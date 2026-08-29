@@ -1,8 +1,8 @@
 
 <div align="center"> 
-  <img src="https://file.garden/aU4hh4V5_n1pLO3P/footer-gradient-map-custom.png">
+  <img src="https://i.postimg.cc/RhwFyMpV/tumblr-5052ca2a0238b63d54974a62e4fe41d9-dabc374b-2048-gradient-map-custom.png">
  
-  <img width="120" src="https://komarev.com/ghpvc/?username=70smusic&color=6d4d5a&base=5000"> 
+  <img width="120" src="https://komarev.com/ghpvc/?username=70smusic&color=736458&base=5000"> 
 
 <details>
     <summary>awards</summary>
@@ -12,10 +12,10 @@
 </details>
 
 <p>
-  <img width="200" src="https://file.garden/aU4hh4V5_n1pLO3P/Untitled48_20260730163954-gradient-map-custom.png" />
+  <img width="200" src="https://i.postimg.cc/15Z46q4F/Untitled48-20260828235827-gradient-map-custom.png" />
 </p>
 
-[<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/rentry1.png"/>](https://rentry.co/robodon) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/prncc.png"/>](https://pronouns.cc/@70smusic) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/atabook.png"/>](https://70smusic.atabook.org/) [<img width="85" height="85" src="https://github.com/70smusic/70smusic/blob/main/strawpage.png"/>](https://70smusic.straw.page/)
+[<img width="85" height="85" src="https://i.postimg.cc/0QTjV6fV/rentry-gradient-map-custom.png"/>](https://rentry.co/robodon) [<img width="85" height="85" src="https://i.postimg.cc/rmBsfdJh/prn-cc-gradient-map-custom.png"/>](https://pronouns.cc/@70smusic) [<img width="85" height="85" src="https://i.postimg.cc/V6xvKSRZ/ata-gradient-map-custom.png"/>](https://70smusic.atabook.org/) [<img width="85" height="85" src="https://i.postimg.cc/1XDt2973/straw-gradient-map-custom.png"/>](https://70smusic.straw.page/) [<img width="85" height="85" src="https://i.postimg.cc/Twz1ty9C/reespri-gradient-map-custom.png"/>](https://repris.org/jackabbot)
 
 
 
@@ -29,5 +29,5 @@
   </div>
 </details>
 
-<img src="https://file.garden/aU4hh4V5_n1pLO3P/header-gradient-map-custom.png">
+<img src="https://i.postimg.cc/NFRMSgCg/tumblr-4aed776d995e7d06cced16c3399e6b84-47865ab2-2048-gradient-map-custom.png">
 </div>
