@@ -1,8 +1,8 @@
 
 <div align="center"> 
-  <img src="https://i.postimg.cc/RhwFyMpV/tumblr-5052ca2a0238b63d54974a62e4fe41d9-dabc374b-2048-gradient-map-custom.png">
+  <img src="https://i.postimg.cc/904SKHwC/tumblr-d662ec642c0a5838e45416780c83f55e-3f07e730-2048-gradient-map-custom.png">
  
-  <img width="120" src="https://komarev.com/ghpvc/?username=70smusic&color=736458&base=5000"> 
+  <img width="120" src="https://komarev.com/ghpvc/?username=70smusic&color=221213&base=5000"> 
 
 <details>
     <summary>awards</summary>
@@ -16,10 +16,10 @@
     <p> I cannot access fluffle.cc links on my school wifi, and frankly will not be switching back and forth between a hot spot for it, if you use fluffle, have an alternative or i just won't know your info. </p>
 </details>
 <p>
-  <img width="200" src="https://i.postimg.cc/15Z46q4F/Untitled48-20260828235827-gradient-map-custom.png" />
+  <img width="200" src="https://i.postimg.cc/6QLMm5Hg/tumblr-p86e36o-QQT1r2dmizo2-1280-gradient-map-custom-removebg-preview.png" />
 </p>
 
-[<img width="85" height="85" src="https://i.postimg.cc/0QTjV6fV/rentry-gradient-map-custom.png"/>](https://rentry.co/robodon) [<img width="85" height="85" src="https://i.postimg.cc/rmBsfdJh/prn-cc-gradient-map-custom.png"/>](https://pronouns.cc/@70smusic) [<img width="85" height="85" src="https://i.postimg.cc/V6xvKSRZ/ata-gradient-map-custom.png"/>](https://70smusic.atabook.org/) [<img width="85" height="85" src="https://i.postimg.cc/1XDt2973/straw-gradient-map-custom.png"/>](https://70smusic.straw.page/) [<img width="85" height="85" src="https://i.postimg.cc/Twz1ty9C/reespri-gradient-map-custom.png"/>](https://repris.org/jackabbot)
+[<img width="85" height="85" src="https://i.postimg.cc/yd1L44tC/rentry-gradient-map-custom-(1).png"/>](https://rentry.co/robodon) [<img width="85" height="85" src="https://i.postimg.cc/XJjsSSm4/prn-cc-gradient-map-custom-(1).png"/>](https://pronouns.cc/@70smusic) [<img width="85" height="85" src="https://i.postimg.cc/TwdtMMFX/ata-gradient-map-custom-(1).png"/>](https://70smusic.atabook.org/) [<img width="85" height="85" src="https://i.postimg.cc/j5xM0093/straw-gradient-map-custom-(1).png"/>](https://70smusic.straw.page/) [<img width="85" height="85" src="https://i.postimg.cc/yd1L44t8/reespri-gradient-map-custom-(1).png"/>](https://repris.org/jackabbot)
 
 
 
@@ -33,5 +33,5 @@
   </div>
 </details>
 
-<img src="https://i.postimg.cc/NFRMSgCg/tumblr-4aed776d995e7d06cced16c3399e6b84-47865ab2-2048-gradient-map-custom.png">
+<img src="https://i.postimg.cc/cCKj2GtZ/tumblr-5fba4dbcd7af621a8a62b1cb58cd2917-91513535-2048-gradient-map-custom.png">
 </div>
